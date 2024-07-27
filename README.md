@@ -123,5 +123,10 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Demo Video
 https://youtu.be/nvjtSLknYCs 
+
+## Presentation
+https://docs.google.com/presentation/d/1GFxTgSSIJoJip1VWgZ2SygOfRNm4g-Y2wjkPuUzYuR0/edit?usp=sharing
+
+
 ## License
 This project is licensed under the MIT License.
